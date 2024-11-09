@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ElementosVisuales2</string>
+    <string name="alert_button">Alert Button</string>
+    <string name="calendar_button">Calendar Button</string>
+    <string name="hora_button">Hora Button</string>
+    <string name="input_button">Input Button</string>
+</resources>
